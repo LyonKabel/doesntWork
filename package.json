@@ -11,7 +11,9 @@
   "description": "",
   "dependencies": {
     "@jworkman-fs/asl": "^1.2.43",
-    "express": "^4.19.2"
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "node-libcurl": "^4.0.0"
   },
   "devDependencies": {
     "jest": "^29.7.0"
